@@ -8,6 +8,9 @@
 
 ---
 
+<img width="1288" height="840" alt="image" src="https://github.com/user-attachments/assets/11c6a955-2a78-443e-a3fe-29b172e24a3c" />
+
+
 ## 🏆 Trac Address (for TNK payout)
 
 ```
@@ -110,6 +113,7 @@ Live at: `https://YOUR_USERNAME.github.io/poolchain-billiard/`
 ipfs add index.html
 # Pin the CID for permanent hosting
 ```
+<img width="1294" height="850" alt="image" src="https://github.com/user-attachments/assets/dd28336c-2bb9-4afd-99ae-e35bcae9522d" />
 
 ---
 
